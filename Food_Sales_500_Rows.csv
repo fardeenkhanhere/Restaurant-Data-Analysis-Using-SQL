@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Food_Category,Food_Item,Quantity,Unit_Price,Discount_Percent,Payment_Method,Order_Type,Rating
+O00001,2025-05-03,C0258,Dessert,Gulab Jamun,2,99,5,Credit Card,Dine-In,2
+O00002,2026-04-22,C0444,Beverage,Mango Shake,7,139,0,UPI,Delivery,3
+O00003,2025-10-26,C0289,Pizza,Pepperoni Pizza,1,449,0,Credit Card,Delivery,2
+O00004,2025-07-20,C0376,Biryani,Chicken Biryani,8,309,20,Debit Card,Delivery,2
+O00005,2025-12-21,C0326,Burger,Veg Burger,1,149,0,Credit Card,Delivery,3
+O00006,2026-06-27,C0122,Pizza,Pepperoni Pizza,5,449,0,UPI,Delivery,2
+O00007,2026-06-17,C0212,Dessert,Gulab Jamun,1,89,15,Credit Card,Takeaway,1
+O00008,2026-02-08,C0039,Chinese,Veg Fried Rice,3,209,5,UPI,Dine-In,2
+O00009,2026-02-07,C0359,Burger,Chicken Burger,6,199,15,Credit Card,Takeaway,4
+O00010,2026-08-22,C0056,Pasta,Alfredo Pasta,4,269,0,UPI,Dine-In,4
+O00011,2025-08-01,C0232,Pasta,Arrabbiata Pasta,6,239,20,UPI,Dine-In,1
+O00012,2025-02-11,C0111,Pizza,Margherita Pizza,5,319,10,Credit Card,Takeaway,1
+O00013,2025-11-03,C0134,Dessert,Chocolate Brownie,7,149,5,Credit Card,Dine-In,4
+O00014,2025-04-15,C0412,Beverage,Fresh Lime Soda,4,99,0,Credit Card,Dine-In,1
+O00015,2026-01-17,C0352,Beverage,Cold Coffee,4,129,10,Credit Card,Delivery,5
+O00016,2025-07-22,C0463,Chinese,Chicken Noodles,1,239,20,Credit Card,Delivery,1
+O00017,2025-02-21,C0087,Beverage,Fresh Lime Soda,1,79,15,Debit Card,Takeaway,4
+O00018,2025-08-08,C0466,Biryani,Veg Biryani,7,229,0,UPI,Dine-In,2
+O00019,2026-05-26,C0211,Pizza,Pepperoni Pizza,4,459,5,Debit Card,Takeaway,1
+O00020,2026-06-23,C0128,Pasta,Arrabbiata Pasta,7,249,0,Credit Card,Delivery,1
+O00021,2026-05-12,C0177,Biryani,Paneer Biryani,8,269,5,Debit Card,Takeaway,4
+O00022,2025-01-31,C0459,Pasta,Alfredo Pasta,6,269,5,Credit Card,Dine-In,4
+O00023,2025-04-13,C0127,Chinese,Chicken Noodles,4,259,20,Credit Card,Dine-In,1
+O00024,2025-06-27,C0091,Beverage,Cold Coffee,7,139,0,UPI,Takeaway,3
+O00025,2026-08-01,C0073,Chinese,Veg Fried Rice,6,219,15,UPI,Dine-In,4
+O00026,2025-02-27,C0120,Chinese,Chicken Noodles,8,249,0,Credit Card,Dine-In,4
+O00027,2025-12-15,C0368,Pizza,Farmhouse Pizza,4,409,10,UPI,Delivery,3
+O00028,2026-06-23,C0441,Pizza,Margherita Pizza,3,299,10,UPI,Dine-In,4
+O00029,2025-06-11,C0375,Chinese,Veg Fried Rice,5,199,0,Debit Card,Delivery,4
+O00030,2025-06-29,C0194,Dessert,Gulab Jamun,6,99,0,UPI,Delivery,2
+O00031,2026-08-05,C0017,Burger,Cheese Burger,7,169,15,UPI,Takeaway,5
+O00032,2025-05-25,C0170,Burger,Cheese Burger,2,189,15,Credit Card,Dine-In,3
+O00033,2025-09-29,C0108,Burger,Cheese Burger,6,169,5,UPI,Dine-In,3
+O00034,2026-03-25,C0376,Beverage,Cold Coffee,1,149,0,UPI,Dine-In,4
+O00035,2026-05-06,C0404,Biryani,Chicken Biryani,7,299,0,Debit Card,Delivery,2
+O00036,2025-11-23,C0134,Burger,Chicken Burger,1,189,0,Debit Card,Dine-In,2
+O00037,2025-04-06,C0174,Biryani,Veg Biryani,2,249,5,UPI,Delivery,4
+O00038,2026-03-21,C0081,Dessert,Chocolate Brownie,3,149,5,Cash,Takeaway,2
+O00039,2025-11-01,C0122,Biryani,Paneer Biryani,5,279,10,Cash,Takeaway,5
+O00040,2026-03-14,C0045,Beverage,Fresh Lime Soda,1,89,0,UPI,Delivery,5
+O00041,2025-10-26,C0042,Biryani,Veg Biryani,1,219,0,UPI,Dine-In,4
+O00042,2026-07-12,C0199,Biryani,Chicken Biryani,5,319,0,UPI,Delivery,3
+O00043,2025-09-27,C0116,Burger,Chicken Burger,5,189,5,Credit Card,Delivery,2
+O00044,2025-12-19,C0414,Beverage,Mango Shake,2,169,0,UPI,Delivery,5
+O00045,2026-03-05,C0495,Burger,Cheese Burger,7,169,10,UPI,Delivery,4
+O00046,2025-02-05,C0258,Chinese,Veg Fried Rice,5,199,0,UPI,Takeaway,5
+O00047,2026-04-05,C0089,Dessert,Ice Cream Sundae,2,179,15,Debit Card,Dine-In,2
+O00048,2026-03-22,C0104,Beverage,Cold Coffee,1,129,5,Debit Card,Delivery,5
+O00049,2026-07-24,C0204,Pasta,Arrabbiata Pasta,2,269,0,UPI,Delivery,5
+O00050,2025-06-03,C0076,Biryani,Veg Biryani,7,249,0,UPI,Delivery,1
+O00051,2025-12-19,C0450,Pizza,Pepperoni Pizza,5,439,15,UPI,Takeaway,4
+O00052,2026-02-17,C0074,Chinese,Chilli Paneer,1,279,0,Credit Card,Delivery,4
+O00053,2026-05-02,C0472,Pizza,Farmhouse Pizza,4,399,0,UPI,Takeaway,3
+O00054,2025-04-11,C0498,Beverage,Fresh Lime Soda,5,89,10,Debit Card,Dine-In,4
+O00055,2025-04-02,C0097,Beverage,Fresh Lime Soda,7,89,5,UPI,Delivery,4
+O00056,2026-06-12,C0406,Dessert,Gulab Jamun,6,109,10,UPI,Takeaway,5
+O00057,2025-07-25,C0429,Biryani,Veg Biryani,1,239,0,Cash,Dine-In,1
+O00058,2026-04-21,C0259,Pasta,Pesto Pasta,5,299,0,UPI,Delivery,1
+O00059,2026-05-01,C0301,Burger,Chicken Burger,8,199,0,UPI,Takeaway,3
+O00060,2025-02-20,C0084,Dessert,Ice Cream Sundae,5,169,0,Debit Card,Delivery,2
+O00061,2025-10-03,C0334,Beverage,Cold Coffee,4,149,10,UPI,Dine-In,1
+O00062,2025-01-09,C0115,Biryani,Veg Biryani,3,249,5,UPI,Delivery,3
+O00063,2026-01-21,C0437,Dessert,Ice Cream Sundae,5,199,5,UPI,Dine-In,4
+O00064,2025-01-08,C0262,Pasta,Pesto Pasta,7,309,5,Debit Card,Delivery,3
+O00065,2025-04-21,C0247,Chinese,Chilli Paneer,5,289,0,Cash,Delivery,3
+O00066,2026-06-14,C0392,Beverage,Fresh Lime Soda,5,89,0,UPI,Dine-In,5
+O00067,2026-05-25,C0152,Biryani,Paneer Biryani,3,269,10,UPI,Takeaway,4
+O00068,2025-08-16,C0352,Dessert,Chocolate Brownie,4,159,0,UPI,Delivery,3
+O00069,2026-04-28,C0066,Chinese,Chicken Noodles,3,249,0,Credit Card,Delivery,5
+O00070,2025-08-16,C0182,Beverage,Cold Coffee,6,149,10,UPI,Delivery,4
+O00071,2026-04-20,C0436,Beverage,Fresh Lime Soda,5,89,5,Cash,Dine-In,5
+O00072,2026-05-28,C0062,Chinese,Chilli Paneer,8,269,15,Debit Card,Takeaway,3
+O00073,2025-12-17,C0210,Biryani,Veg Biryani,3,229,20,Debit Card,Delivery,4
+O00074,2026-05-15,C0171,Burger,Chicken Burger,3,219,10,Credit Card,Dine-In,1
+O00075,2025-06-22,C0296,Pizza,Farmhouse Pizza,4,399,10,Credit Card,Takeaway,1
+O00076,2026-05-04,C0197,Burger,Cheese Burger,7,179,5,Cash,Takeaway,3
+O00077,2025-01-05,C0321,Pizza,Farmhouse Pizza,4,409,0,Credit Card,Dine-In,3
+O00078,2025-11-10,C0086,Pasta,Alfredo Pasta,7,269,5,Cash,Dine-In,3
+O00079,2025-05-18,C0176,Biryani,Paneer Biryani,6,279,5,Debit Card,Takeaway,2
+O00080,2025-05-15,C0109,Burger,Chicken Burger,4,189,0,Credit Card,Delivery,2
+O00081,2025-09-19,C0395,Pizza,Farmhouse Pizza,1,419,0,UPI,Dine-In,1
+O00082,2025-04-29,C0214,Dessert,Chocolate Brownie,1,169,0,UPI,Dine-In,3
+O00083,2025-01-10,C0155,Biryani,Paneer Biryani,4,269,10,UPI,Dine-In,5
+O00084,2025-04-18,C0262,Pasta,Pesto Pasta,3,309,5,Credit Card,Dine-In,1
+O00085,2025-09-27,C0426,Beverage,Cold Coffee,4,129,5,UPI,Dine-In,4
+O00086,2026-05-08,C0170,Pasta,Alfredo Pasta,8,269,15,UPI,Dine-In,1
+O00087,2025-04-03,C0400,Pizza,Pepperoni Pizza,8,469,0,UPI,Delivery,1
+O00088,2025-10-31,C0136,Pasta,Pesto Pasta,8,299,20,UPI,Dine-In,2
+O00089,2025-11-17,C0219,Beverage,Cold Coffee,6,129,10,Credit Card,Dine-In,1
+O00090,2026-03-25,C0490,Pizza,Margherita Pizza,3,319,0,Credit Card,Delivery,1
+O00091,2026-04-13,C0140,Pasta,Arrabbiata Pasta,2,249,5,Credit Card,Delivery,4
+O00092,2025-03-02,C0483,Beverage,Fresh Lime Soda,3,109,0,Credit Card,Dine-In,5
+O00093,2026-01-24,C0399,Biryani,Paneer Biryani,8,289,0,UPI,Dine-In,2
+O00094,2025-03-06,C0134,Biryani,Chicken Biryani,7,289,5,Credit Card,Dine-In,5
+O00095,2025-12-13,C0266,Beverage,Mango Shake,4,159,20,UPI,Delivery,1
+O00096,2026-01-30,C0077,Biryani,Paneer Biryani,4,289,5,Credit Card,Delivery,5
+O00097,2026-04-26,C0437,Pizza,Margherita Pizza,3,319,5,UPI,Dine-In,4
+O00098,2025-08-17,C0282,Pasta,Alfredo Pasta,5,279,0,Credit Card,Takeaway,2
+O00099,2026-05-26,C0229,Pizza,Farmhouse Pizza,8,399,0,UPI,Delivery,1
+O00100,2025-01-01,C0423,Pizza,Farmhouse Pizza,1,399,5,Cash,Delivery,5
+O00101,2026-04-13,C0487,Dessert,Gulab Jamun,4,109,10,UPI,Delivery,2
+O00102,2026-01-08,C0367,Beverage,Fresh Lime Soda,8,89,10,UPI,Dine-In,2
+O00103,2026-01-18,C0360,Pizza,Farmhouse Pizza,5,399,5,Cash,Delivery,4
+O00104,2025-07-20,C0097,Burger,Cheese Burger,7,199,0,Cash,Delivery,2
+O00105,2026-03-01,C0024,Biryani,Veg Biryani,6,249,0,Debit Card,Delivery,5
+O00106,2025-01-05,C0272,Pizza,Farmhouse Pizza,3,399,20,Credit Card,Delivery,4
+O00107,2025-06-27,C0375,Beverage,Mango Shake,3,149,10,Credit Card,Dine-In,5
+O00108,2025-09-12,C0141,Chinese,Chicken Noodles,7,259,5,UPI,Takeaway,3
+O00109,2026-06-09,C0154,Biryani,Veg Biryani,7,229,5,Credit Card,Takeaway,3
+O00110,2025-10-25,C0352,Dessert,Ice Cream Sundae,4,189,0,UPI,Delivery,2
+O00111,2025-12-27,C0288,Chinese,Chilli Paneer,6,299,10,UPI,Delivery,4
+O00112,2026-03-09,C0414,Dessert,Ice Cream Sundae,5,189,15,Cash,Dine-In,4
+O00113,2025-06-14,C0147,Burger,Veg Burger,1,169,0,Credit Card,Dine-In,1
+O00114,2026-04-09,C0053,Dessert,Gulab Jamun,1,99,0,Credit Card,Delivery,5
+O00115,2025-10-22,C0355,Beverage,Cold Coffee,7,149,0,Credit Card,Delivery,4
+O00116,2025-09-15,C0104,Biryani,Paneer Biryani,1,269,0,Credit Card,Delivery,4
+O00117,2026-07-14,C0379,Beverage,Cold Coffee,6,149,10,Credit Card,Delivery,2
+O00118,2025-06-27,C0377,Pasta,Arrabbiata Pasta,2,249,0,UPI,Takeaway,4
+O00119,2025-09-19,C0003,Pasta,Pesto Pasta,3,299,0,UPI,Delivery,2
+O00120,2025-11-05,C0252,Pizza,Margherita Pizza,1,299,10,Credit Card,Delivery,1
+O00121,2026-06-18,C0035,Beverage,Mango Shake,4,149,20,Credit Card,Dine-In,5
+O00122,2025-08-07,C0340,Chinese,Chicken Noodles,6,239,0,UPI,Takeaway,2
+O00123,2025-01-10,C0059,Beverage,Mango Shake,8,159,20,Credit Card,Takeaway,5
+O00124,2025-04-27,C0198,Chinese,Veg Fried Rice,6,189,0,UPI,Delivery,1
+O00125,2025-10-31,C0460,Chinese,Chicken Noodles,8,259,5,Credit Card,Takeaway,1
+O00126,2025-08-04,C0344,Pizza,Margherita Pizza,1,309,5,Credit Card,Dine-In,4
+O00127,2025-03-15,C0383,Beverage,Cold Coffee,7,129,5,Credit Card,Dine-In,3
+O00128,2025-09-15,C0286,Pizza,Margherita Pizza,1,289,0,Cash,Delivery,3
+O00129,2025-01-18,C0200,Biryani,Chicken Biryani,7,299,5,Credit Card,Takeaway,5
+O00130,2025-03-16,C0184,Pizza,Pepperoni Pizza,1,459,10,Debit Card,Dine-In,3
+O00131,2025-02-01,C0243,Chinese,Veg Fried Rice,8,199,0,UPI,Dine-In,4
+O00132,2026-01-18,C0491,Beverage,Mango Shake,3,149,0,Debit Card,Delivery,5
+O00133,2026-02-08,C0276,Burger,Veg Burger,1,139,5,UPI,Dine-In,2
+O00134,2026-06-09,C0073,Dessert,Ice Cream Sundae,6,199,0,UPI,Dine-In,3
+O00135,2026-07-17,C0237,Burger,Veg Burger,1,149,15,Credit Card,Dine-In,1
+O00136,2026-01-01,C0066,Pasta,Alfredo Pasta,8,279,20,Credit Card,Dine-In,3
+O00137,2025-12-03,C0316,Chinese,Veg Fried Rice,6,199,5,Credit Card,Delivery,2
+O00138,2025-06-22,C0003,Chinese,Chilli Paneer,6,279,20,UPI,Delivery,4
+O00139,2026-04-19,C0229,Pasta,Arrabbiata Pasta,6,249,15,UPI,Takeaway,5
+O00140,2025-05-24,C0457,Pizza,Margherita Pizza,2,319,10,UPI,Dine-In,1
+O00141,2026-08-16,C0208,Dessert,Chocolate Brownie,1,139,10,Credit Card,Dine-In,1
+O00142,2025-06-02,C0188,Chinese,Chicken Noodles,8,259,10,UPI,Delivery,5
+O00143,2025-04-03,C0204,Dessert,Gulab Jamun,8,99,5,UPI,Dine-In,2
+O00144,2025-05-24,C0229,Beverage,Mango Shake,3,169,10,UPI,Delivery,5
+O00145,2025-02-11,C0113,Dessert,Chocolate Brownie,8,169,15,Credit Card,Dine-In,3
+O00146,2026-01-05,C0199,Pasta,Alfredo Pasta,4,269,5,UPI,Takeaway,1
+O00147,2026-06-18,C0325,Pizza,Pepperoni Pizza,2,449,10,Credit Card,Delivery,3
+O00148,2026-01-23,C0188,Chinese,Chilli Paneer,3,289,0,UPI,Delivery,1
+O00149,2025-12-28,C0419,Chinese,Chicken Noodles,4,249,5,Debit Card,Takeaway,4
+O00150,2025-08-24,C0040,Chinese,Veg Fried Rice,3,209,5,UPI,Dine-In,2
+O00151,2026-03-01,C0416,Burger,Veg Burger,2,149,10,UPI,Dine-In,4
+O00152,2026-02-25,C0012,Biryani,Veg Biryani,3,239,5,UPI,Dine-In,5
+O00153,2025-05-31,C0029,Burger,Veg Burger,1,169,15,UPI,Delivery,5
+O00154,2025-10-18,C0485,Biryani,Paneer Biryani,1,279,15,Cash,Takeaway,4
+O00155,2025-05-27,C0407,Beverage,Fresh Lime Soda,4,89,10,UPI,Delivery,5
+O00156,2025-12-17,C0473,Dessert,Ice Cream Sundae,3,179,10,UPI,Delivery,2
+O00157,2026-06-20,C0441,Biryani,Chicken Biryani,2,299,0,Debit Card,Delivery,2
+O00158,2025-02-09,C0450,Chinese,Veg Fried Rice,8,199,15,Credit Card,Takeaway,1
+O00159,2026-07-07,C0424,Pizza,Farmhouse Pizza,3,419,15,Cash,Delivery,4
+O00160,2026-03-16,C0118,Chinese,Chicken Noodles,1,249,10,Debit Card,Takeaway,4
+O00161,2025-09-18,C0245,Pasta,Pesto Pasta,2,319,5,Credit Card,Delivery,1
+O00162,2025-01-06,C0364,Pasta,Pesto Pasta,7,309,0,Credit Card,Dine-In,5
+O00163,2025-11-20,C0210,Pizza,Pepperoni Pizza,7,439,10,UPI,Dine-In,5
+O00164,2025-10-10,C0349,Pasta,Arrabbiata Pasta,7,259,5,UPI,Dine-In,5
+O00165,2026-07-23,C0248,Beverage,Mango Shake,3,149,0,UPI,Takeaway,3
+O00166,2025-05-02,C0383,Beverage,Mango Shake,3,149,15,UPI,Delivery,2
+O00167,2026-07-18,C0315,Pizza,Margherita Pizza,7,309,10,Credit Card,Delivery,2
+O00168,2026-04-28,C0475,Biryani,Paneer Biryani,2,259,10,Credit Card,Dine-In,3
+O00169,2026-02-15,C0315,Burger,Chicken Burger,1,189,10,Credit Card,Dine-In,5
+O00170,2025-07-26,C0436,Pizza,Margherita Pizza,8,319,5,Credit Card,Delivery,3
+O00171,2025-02-06,C0185,Burger,Veg Burger,4,159,5,UPI,Dine-In,2
+O00172,2026-02-20,C0301,Pizza,Farmhouse Pizza,6,399,10,UPI,Dine-In,1
+O00173,2025-10-11,C0116,Pizza,Pepperoni Pizza,6,449,0,Credit Card,Dine-In,4
+O00174,2025-04-20,C0287,Chinese,Veg Fried Rice,3,199,5,Cash,Dine-In,1
+O00175,2026-01-22,C0289,Beverage,Mango Shake,5,149,10,UPI,Dine-In,3
+O00176,2025-01-29,C0247,Beverage,Fresh Lime Soda,8,109,15,Cash,Dine-In,2
+O00177,2025-12-28,C0265,Dessert,Ice Cream Sundae,6,179,5,UPI,Delivery,3
+O00178,2025-12-17,C0039,Burger,Chicken Burger,7,189,10,UPI,Dine-In,3
+O00179,2025-07-14,C0256,Pasta,Alfredo Pasta,5,289,0,Credit Card,Dine-In,2
+O00180,2025-09-13,C0429,Beverage,Fresh Lime Soda,4,89,0,Credit Card,Dine-In,1
+O00181,2026-07-09,C0491,Pizza,Margherita Pizza,8,319,5,Cash,Takeaway,5
+O00182,2026-06-08,C0144,Pasta,Arrabbiata Pasta,5,259,5,UPI,Delivery,2
+O00183,2025-02-03,C0258,Pizza,Pepperoni Pizza,8,449,15,UPI,Delivery,2
+O00184,2025-01-09,C0007,Biryani,Veg Biryani,8,249,0,Credit Card,Takeaway,1
+O00185,2025-09-27,C0122,Pasta,Arrabbiata Pasta,5,259,0,UPI,Delivery,3
+O00186,2026-01-17,C0187,Pasta,Alfredo Pasta,7,279,0,Debit Card,Dine-In,2
+O00187,2025-10-04,C0412,Chinese,Veg Fried Rice,4,209,10,UPI,Takeaway,4
+O00188,2025-01-10,C0091,Burger,Veg Burger,3,169,5,UPI,Dine-In,5
+O00189,2026-07-30,C0440,Chinese,Chilli Paneer,8,279,0,UPI,Takeaway,2
+O00190,2025-04-09,C0231,Pizza,Margherita Pizza,8,299,10,Credit Card,Dine-In,3
+O00191,2025-05-05,C0180,Chinese,Chilli Paneer,6,279,0,Debit Card,Delivery,2
+O00192,2025-10-19,C0182,Chinese,Chilli Paneer,3,299,20,UPI,Takeaway,4
+O00193,2025-05-29,C0445,Pizza,Farmhouse Pizza,5,409,5,UPI,Delivery,3
+O00194,2025-03-15,C0041,Biryani,Paneer Biryani,7,279,10,UPI,Dine-In,3
+O00195,2026-02-09,C0139,Dessert,Gulab Jamun,5,119,5,Debit Card,Delivery,3
+O00196,2025-07-08,C0438,Dessert,Ice Cream Sundae,8,189,5,Cash,Delivery,3
+O00197,2026-02-11,C0053,Dessert,Ice Cream Sundae,2,199,0,Cash,Delivery,4
+O00198,2025-03-27,C0054,Chinese,Veg Fried Rice,7,189,5,UPI,Dine-In,4
+O00199,2025-05-10,C0068,Pasta,Alfredo Pasta,5,279,5,UPI,Dine-In,1
+O00200,2026-07-08,C0479,Dessert,Gulab Jamun,8,99,5,UPI,Takeaway,5
+O00201,2026-08-01,C0223,Burger,Cheese Burger,8,189,5,UPI,Delivery,3
+O00202,2026-03-29,C0158,Pasta,Arrabbiata Pasta,4,259,10,UPI,Dine-In,3
+O00203,2026-04-26,C0274,Pizza,Margherita Pizza,3,309,0,Cash,Delivery,4
+O00204,2025-01-08,C0281,Pasta,Alfredo Pasta,5,279,5,UPI,Takeaway,5
+O00205,2026-02-04,C0425,Biryani,Chicken Biryani,3,299,10,UPI,Dine-In,4
+O00206,2026-06-29,C0415,Dessert,Chocolate Brownie,5,159,0,UPI,Dine-In,1
+O00207,2026-04-09,C0140,Burger,Veg Burger,2,149,5,Credit Card,Takeaway,3
+O00208,2025-04-15,C0145,Pizza,Margherita Pizza,1,289,0,UPI,Delivery,1
+O00209,2025-12-17,C0216,Burger,Veg Burger,1,149,5,UPI,Delivery,3
+O00210,2025-05-30,C0029,Biryani,Paneer Biryani,6,259,0,UPI,Takeaway,5
+O00211,2025-01-13,C0063,Biryani,Veg Biryani,5,229,10,Debit Card,Delivery,4
+O00212,2025-04-07,C0267,Beverage,Fresh Lime Soda,1,89,0,Credit Card,Dine-In,4
+O00213,2025-02-13,C0382,Dessert,Gulab Jamun,3,99,5,Debit Card,Takeaway,3
+O00214,2025-02-23,C0443,Biryani,Paneer Biryani,4,269,0,Credit Card,Delivery,2
+O00215,2025-10-10,C0300,Dessert,Gulab Jamun,1,99,0,Cash,Delivery,1
+O00216,2025-06-08,C0191,Pizza,Pepperoni Pizza,8,469,10,Credit Card,Dine-In,4
+O00217,2025-03-03,C0031,Pizza,Pepperoni Pizza,6,459,15,UPI,Dine-In,5
+O00218,2026-07-26,C0404,Beverage,Cold Coffee,8,129,0,Credit Card,Takeaway,4
+O00219,2025-05-18,C0129,Dessert,Chocolate Brownie,7,139,0,Debit Card,Takeaway,4
+O00220,2025-07-11,C0279,Chinese,Chicken Noodles,8,259,0,UPI,Delivery,3
+O00221,2025-06-08,C0231,Beverage,Mango Shake,3,159,0,UPI,Dine-In,3
+O00222,2025-01-20,C0318,Biryani,Veg Biryani,7,249,10,Debit Card,Delivery,2
+O00223,2026-05-25,C0393,Pasta,Pesto Pasta,7,289,0,UPI,Delivery,3
+O00224,2025-03-10,C0023,Biryani,Paneer Biryani,2,269,0,Credit Card,Dine-In,1
+O00225,2026-08-08,C0329,Burger,Veg Burger,4,149,0,Credit Card,Delivery,5
+O00226,2025-08-15,C0311,Chinese,Chilli Paneer,5,289,0,Credit Card,Dine-In,2
+O00227,2025-03-04,C0185,Dessert,Gulab Jamun,8,89,10,UPI,Delivery,4
+O00228,2025-09-30,C0271,Beverage,Fresh Lime Soda,1,109,10,Cash,Dine-In,3
+O00229,2025-08-25,C0273,Pizza,Margherita Pizza,2,309,0,UPI,Dine-In,2
+O00230,2026-08-14,C0184,Chinese,Chilli Paneer,7,279,10,Credit Card,Delivery,4
+O00231,2025-06-11,C0274,Pizza,Margherita Pizza,7,299,5,Debit Card,Takeaway,3
+O00232,2026-03-17,C0423,Pasta,Pesto Pasta,6,299,5,Credit Card,Delivery,5
+O00233,2026-04-09,C0230,Chinese,Veg Fried Rice,5,199,0,Debit Card,Dine-In,1
+O00234,2025-11-06,C0004,Pasta,Pesto Pasta,3,289,20,UPI,Dine-In,3
+O00235,2026-04-17,C0183,Pizza,Pepperoni Pizza,3,449,0,UPI,Dine-In,5
+O00236,2026-02-14,C0292,Burger,Veg Burger,5,149,0,Debit Card,Delivery,3
+O00237,2026-08-14,C0420,Beverage,Fresh Lime Soda,8,89,10,Debit Card,Delivery,3
+O00238,2025-02-27,C0472,Pizza,Pepperoni Pizza,7,459,0,Credit Card,Takeaway,4
+O00239,2026-01-27,C0028,Biryani,Veg Biryani,1,229,5,UPI,Dine-In,5
+O00240,2026-02-07,C0498,Chinese,Veg Fried Rice,4,199,0,UPI,Delivery,5
+O00241,2025-06-01,C0068,Pizza,Margherita Pizza,5,299,10,UPI,Takeaway,1
+O00242,2026-03-21,C0397,Chinese,Chicken Noodles,2,249,0,Credit Card,Delivery,4
+O00243,2025-07-20,C0288,Chinese,Veg Fried Rice,7,199,10,Credit Card,Delivery,2
+O00244,2026-08-13,C0046,Burger,Veg Burger,7,149,0,Cash,Takeaway,3
+O00245,2025-01-25,C0395,Pasta,Alfredo Pasta,6,279,5,UPI,Delivery,5
+O00246,2025-08-28,C0103,Beverage,Fresh Lime Soda,3,99,5,Credit Card,Dine-In,1
+O00247,2025-06-01,C0445,Pizza,Pepperoni Pizza,4,439,15,Credit Card,Dine-In,3
+O00248,2025-12-06,C0108,Dessert,Chocolate Brownie,8,149,5,Credit Card,Dine-In,5
+O00249,2025-05-25,C0356,Chinese,Chicken Noodles,8,259,5,Credit Card,Dine-In,5
+O00250,2025-10-18,C0103,Dessert,Ice Cream Sundae,5,169,0,Credit Card,Delivery,1
+O00251,2025-10-05,C0340,Biryani,Paneer Biryani,2,259,0,Debit Card,Delivery,1
+O00252,2026-01-25,C0261,Pizza,Farmhouse Pizza,7,419,0,Debit Card,Dine-In,3
+O00253,2026-05-28,C0495,Biryani,Paneer Biryani,2,279,0,UPI,Delivery,1
+O00254,2026-02-07,C0382,Pizza,Margherita Pizza,5,309,0,UPI,Takeaway,3
+O00255,2026-05-29,C0142,Pasta,Pesto Pasta,4,299,20,Credit Card,Delivery,4
+O00256,2025-12-16,C0460,Beverage,Cold Coffee,5,139,0,UPI,Dine-In,4
+O00257,2026-08-10,C0079,Chinese,Chilli Paneer,4,289,5,UPI,Takeaway,5
+O00258,2025-05-22,C0298,Pasta,Arrabbiata Pasta,3,259,0,UPI,Delivery,2
+O00259,2025-05-29,C0336,Pasta,Pesto Pasta,3,319,5,Debit Card,Delivery,3
+O00260,2025-05-30,C0373,Pizza,Pepperoni Pizza,2,459,0,Cash,Takeaway,4
+O00261,2025-07-12,C0055,Biryani,Chicken Biryani,5,299,0,Cash,Dine-In,5
+O00262,2025-08-25,C0352,Chinese,Chicken Noodles,4,259,5,Cash,Dine-In,4
+O00263,2026-01-18,C0095,Burger,Cheese Burger,8,189,10,Debit Card,Takeaway,2
+O00264,2025-01-16,C0474,Burger,Veg Burger,1,149,5,UPI,Takeaway,2
+O00265,2026-03-26,C0444,Beverage,Cold Coffee,3,119,15,Credit Card,Delivery,4
+O00266,2026-01-25,C0369,Burger,Chicken Burger,1,199,5,UPI,Delivery,5
+O00267,2026-04-08,C0234,Chinese,Chilli Paneer,1,289,5,Credit Card,Dine-In,2
+O00268,2026-06-13,C0392,Chinese,Chilli Paneer,1,279,5,Credit Card,Dine-In,3
+O00269,2026-03-09,C0151,Biryani,Chicken Biryani,5,299,5,Credit Card,Dine-In,5
+O00270,2026-05-28,C0058,Burger,Chicken Burger,8,219,0,UPI,Delivery,5
+O00271,2025-07-03,C0233,Burger,Chicken Burger,6,199,5,UPI,Delivery,2
+O00272,2025-06-17,C0368,Biryani,Veg Biryani,6,229,10,Credit Card,Dine-In,4
+O00273,2026-06-08,C0314,Dessert,Gulab Jamun,7,89,10,Debit Card,Takeaway,4
+O00274,2025-05-29,C0092,Pizza,Margherita Pizza,3,299,0,Credit Card,Dine-In,3
+O00275,2025-05-01,C0461,Pasta,Pesto Pasta,5,299,5,Cash,Dine-In,5
+O00276,2026-05-26,C0279,Beverage,Fresh Lime Soda,8,79,5,Credit Card,Delivery,4
+O00277,2026-03-29,C0041,Burger,Veg Burger,8,159,5,Credit Card,Dine-In,5
+O00278,2025-06-01,C0029,Pasta,Pesto Pasta,4,319,0,Credit Card,Dine-In,1
+O00279,2025-03-31,C0026,Dessert,Ice Cream Sundae,5,189,0,Cash,Delivery,2
+O00280,2026-08-16,C0185,Dessert,Gulab Jamun,3,109,20,Debit Card,Dine-In,3
+O00281,2026-07-18,C0034,Pasta,Arrabbiata Pasta,2,249,10,UPI,Dine-In,3
+O00282,2025-03-01,C0056,Pasta,Pesto Pasta,4,299,10,UPI,Delivery,5
+O00283,2025-11-21,C0133,Pizza,Farmhouse Pizza,5,419,5,UPI,Delivery,3
+O00284,2026-05-25,C0253,Burger,Cheese Burger,8,189,5,Credit Card,Delivery,2
+O00285,2026-04-22,C0321,Dessert,Gulab Jamun,1,99,0,Credit Card,Delivery,2
+O00286,2025-12-25,C0287,Beverage,Mango Shake,7,149,0,Credit Card,Dine-In,2
+O00287,2026-06-03,C0282,Dessert,Gulab Jamun,2,99,0,UPI,Dine-In,3
+O00288,2025-07-18,C0170,Pasta,Arrabbiata Pasta,1,269,10,Credit Card,Delivery,4
+O00289,2026-04-17,C0457,Biryani,Veg Biryani,3,249,5,Debit Card,Delivery,4
+O00290,2025-11-03,C0290,Beverage,Fresh Lime Soda,1,109,10,Credit Card,Takeaway,5
+O00291,2025-12-29,C0034,Pizza,Margherita Pizza,6,309,10,Debit Card,Dine-In,1
+O00292,2026-02-03,C0096,Pasta,Arrabbiata Pasta,3,269,5,UPI,Delivery,3
+O00293,2025-03-30,C0255,Dessert,Gulab Jamun,1,119,0,Debit Card,Takeaway,3
+O00294,2025-02-08,C0399,Burger,Cheese Burger,3,179,0,UPI,Dine-In,5
+O00295,2026-05-11,C0376,Pizza,Farmhouse Pizza,3,409,0,Debit Card,Takeaway,3
+O00296,2025-02-07,C0236,Burger,Veg Burger,3,159,0,UPI,Delivery,1
+O00297,2025-02-17,C0053,Pizza,Farmhouse Pizza,2,389,0,UPI,Delivery,3
+O00298,2025-07-17,C0147,Pizza,Pepperoni Pizza,4,449,0,UPI,Takeaway,4
+O00299,2025-04-28,C0008,Dessert,Chocolate Brownie,3,149,0,Debit Card,Delivery,1
+O00300,2025-10-18,C0294,Burger,Cheese Burger,6,179,0,UPI,Dine-In,5
+O00301,2026-04-28,C0463,Pasta,Pesto Pasta,1,299,0,Credit Card,Dine-In,1
+O00302,2026-04-02,C0316,Pizza,Farmhouse Pizza,3,399,10,UPI,Takeaway,2
+O00303,2026-04-22,C0291,Dessert,Ice Cream Sundae,2,189,20,Cash,Delivery,4
+O00304,2025-08-18,C0074,Pizza,Farmhouse Pizza,8,399,5,Debit Card,Delivery,3
+O00305,2025-11-29,C0233,Biryani,Veg Biryani,6,249,10,UPI,Dine-In,1
+O00306,2025-12-23,C0310,Pasta,Arrabbiata Pasta,3,249,0,UPI,Takeaway,4
+O00307,2025-03-14,C0406,Beverage,Mango Shake,6,139,5,UPI,Takeaway,5
+O00308,2026-05-09,C0197,Biryani,Veg Biryani,4,239,5,Cash,Dine-In,5
+O00309,2025-08-30,C0089,Biryani,Chicken Biryani,6,309,5,Credit Card,Dine-In,5
+O00310,2025-04-10,C0421,Beverage,Fresh Lime Soda,8,79,0,UPI,Takeaway,4
+O00311,2025-03-04,C0047,Pizza,Pepperoni Pizza,7,439,0,UPI,Dine-In,5
+O00312,2026-04-09,C0273,Beverage,Mango Shake,3,139,10,UPI,Delivery,4
+O00313,2025-11-08,C0471,Burger,Veg Burger,6,169,0,Debit Card,Takeaway,3
+O00314,2025-10-29,C0032,Pizza,Pepperoni Pizza,7,439,10,UPI,Takeaway,1
+O00315,2025-10-16,C0444,Pizza,Pepperoni Pizza,6,459,0,Cash,Takeaway,5
+O00316,2026-03-22,C0280,Biryani,Paneer Biryani,7,269,5,UPI,Dine-In,2
+O00317,2025-06-07,C0148,Burger,Cheese Burger,6,179,10,Debit Card,Delivery,2
+O00318,2026-05-14,C0337,Pizza,Margherita Pizza,1,319,0,UPI,Delivery,1
+O00319,2026-03-12,C0320,Burger,Cheese Burger,8,179,15,UPI,Takeaway,5
+O00320,2026-03-11,C0310,Beverage,Fresh Lime Soda,6,89,0,Cash,Takeaway,2
+O00321,2026-08-14,C0188,Dessert,Ice Cream Sundae,7,179,15,Cash,Dine-In,4
+O00322,2025-03-23,C0073,Dessert,Gulab Jamun,8,89,20,Credit Card,Takeaway,3
+O00323,2025-03-21,C0351,Biryani,Paneer Biryani,2,259,0,Credit Card,Delivery,3
+O00324,2026-06-09,C0464,Chinese,Veg Fried Rice,1,199,5,UPI,Delivery,4
+O00325,2025-11-08,C0373,Pasta,Arrabbiata Pasta,3,249,0,Credit Card,Dine-In,4
+O00326,2025-10-26,C0415,Chinese,Veg Fried Rice,1,209,10,Credit Card,Dine-In,4
+O00327,2025-10-12,C0130,Pizza,Margherita Pizza,2,309,15,Cash,Dine-In,3
+O00328,2025-06-04,C0338,Pizza,Pepperoni Pizza,3,439,15,UPI,Delivery,3
+O00329,2026-06-25,C0442,Beverage,Mango Shake,8,149,0,Cash,Delivery,2
+O00330,2025-09-01,C0339,Chinese,Veg Fried Rice,7,199,10,UPI,Delivery,2
+O00331,2025-04-29,C0027,Chinese,Chilli Paneer,1,279,5,UPI,Takeaway,3
+O00332,2026-02-04,C0243,Biryani,Paneer Biryani,4,279,0,UPI,Takeaway,4
+O00333,2026-06-27,C0350,Pizza,Farmhouse Pizza,7,399,10,Debit Card,Dine-In,5
+O00334,2025-10-01,C0411,Dessert,Gulab Jamun,5,99,0,Cash,Delivery,4
+O00335,2025-07-19,C0267,Biryani,Paneer Biryani,4,289,10,UPI,Delivery,2
+O00336,2025-01-13,C0211,Pasta,Pesto Pasta,1,289,10,Cash,Dine-In,4
+O00337,2025-02-04,C0013,Pasta,Alfredo Pasta,5,299,0,Credit Card,Dine-In,5
+O00338,2025-05-03,C0045,Dessert,Chocolate Brownie,2,159,10,Debit Card,Dine-In,5
+O00339,2026-04-24,C0339,Beverage,Cold Coffee,3,119,0,Debit Card,Delivery,3
+O00340,2025-03-17,C0142,Beverage,Fresh Lime Soda,6,109,0,Credit Card,Takeaway,3
+O00341,2026-05-19,C0476,Pizza,Farmhouse Pizza,3,399,5,UPI,Takeaway,4
+O00342,2025-04-19,C0468,Pizza,Margherita Pizza,7,309,0,UPI,Dine-In,1
+O00343,2025-01-20,C0460,Pizza,Margherita Pizza,5,309,10,UPI,Delivery,1
+O00344,2025-12-04,C0464,Pizza,Pepperoni Pizza,5,449,0,UPI,Dine-In,4
+O00345,2025-01-04,C0197,Biryani,Chicken Biryani,2,299,5,Debit Card,Delivery,4
+O00346,2025-11-07,C0206,Pizza,Pepperoni Pizza,6,459,0,Cash,Delivery,1
+O00347,2025-10-24,C0332,Pasta,Pesto Pasta,2,299,10,UPI,Delivery,4
+O00348,2026-01-03,C0250,Dessert,Chocolate Brownie,7,149,15,Cash,Delivery,2
+O00349,2025-09-02,C0251,Burger,Veg Burger,1,149,10,UPI,Delivery,3
+O00350,2025-02-27,C0173,Biryani,Paneer Biryani,1,269,0,Credit Card,Dine-In,1
+O00351,2026-07-04,C0077,Burger,Cheese Burger,8,199,15,Credit Card,Dine-In,1
+O00352,2026-04-28,C0465,Pizza,Pepperoni Pizza,8,449,10,Debit Card,Dine-In,2
+O00353,2025-04-10,C0234,Pizza,Margherita Pizza,1,319,15,Credit Card,Delivery,1
+O00354,2025-08-14,C0033,Beverage,Cold Coffee,8,119,5,Credit Card,Takeaway,4
+O00355,2025-08-07,C0392,Pasta,Alfredo Pasta,3,299,0,Cash,Dine-In,1
+O00356,2026-01-14,C0284,Pizza,Farmhouse Pizza,7,399,0,UPI,Dine-In,5
+O00357,2025-01-17,C0451,Pizza,Margherita Pizza,7,289,10,UPI,Dine-In,2
+O00358,2026-05-03,C0355,Pizza,Pepperoni Pizza,5,469,5,Cash,Dine-In,3
+O00359,2025-02-08,C0306,Chinese,Chicken Noodles,4,249,15,UPI,Takeaway,1
+O00360,2025-08-30,C0099,Dessert,Gulab Jamun,7,99,0,Cash,Takeaway,1
+O00361,2025-08-02,C0142,Chinese,Chicken Noodles,4,259,5,Cash,Dine-In,2
+O00362,2025-02-14,C0028,Dessert,Gulab Jamun,3,99,0,Credit Card,Dine-In,4
+O00363,2025-02-23,C0474,Pasta,Arrabbiata Pasta,8,259,0,UPI,Dine-In,1
+O00364,2026-04-01,C0304,Biryani,Paneer Biryani,2,259,15,UPI,Takeaway,3
+O00365,2026-02-27,C0446,Burger,Veg Burger,4,149,0,UPI,Delivery,1
+O00366,2025-05-29,C0111,Biryani,Paneer Biryani,1,269,15,Debit Card,Takeaway,4
+O00367,2025-10-04,C0104,Pasta,Alfredo Pasta,4,279,5,UPI,Dine-In,5
+O00368,2026-04-15,C0215,Pizza,Farmhouse Pizza,2,399,15,UPI,Takeaway,3
+O00369,2026-07-21,C0438,Chinese,Veg Fried Rice,3,219,5,UPI,Takeaway,5
+O00370,2025-10-13,C0008,Biryani,Veg Biryani,8,239,10,Credit Card,Delivery,2
+O00371,2025-06-02,C0468,Burger,Chicken Burger,4,199,15,UPI,Dine-In,1
+O00372,2026-02-08,C0246,Pizza,Farmhouse Pizza,1,419,5,Credit Card,Delivery,1
+O00373,2025-01-13,C0355,Biryani,Chicken Biryani,2,299,5,Credit Card,Delivery,2
+O00374,2025-11-09,C0083,Pasta,Arrabbiata Pasta,2,249,0,Credit Card,Delivery,5
+O00375,2026-02-20,C0095,Pizza,Farmhouse Pizza,3,399,15,Credit Card,Takeaway,4
+O00376,2025-12-07,C0272,Dessert,Ice Cream Sundae,2,169,0,Cash,Takeaway,3
+O00377,2025-03-24,C0318,Dessert,Ice Cream Sundae,4,189,10,Debit Card,Delivery,1
+O00378,2026-01-10,C0239,Chinese,Chilli Paneer,1,279,0,Credit Card,Takeaway,2
+O00379,2025-07-29,C0071,Dessert,Ice Cream Sundae,2,199,5,Debit Card,Dine-In,1
+O00380,2025-08-19,C0165,Dessert,Gulab Jamun,4,119,10,UPI,Dine-In,4
+O00381,2026-05-13,C0257,Pasta,Alfredo Pasta,6,269,0,UPI,Dine-In,5
+O00382,2025-03-09,C0097,Dessert,Ice Cream Sundae,8,179,5,Debit Card,Takeaway,1
+O00383,2025-10-10,C0058,Biryani,Veg Biryani,2,229,0,Credit Card,Takeaway,2
+O00384,2026-07-09,C0478,Chinese,Chilli Paneer,5,269,5,Cash,Takeaway,4
+O00385,2025-01-23,C0447,Dessert,Ice Cream Sundae,5,169,0,Credit Card,Delivery,5
+O00386,2025-12-01,C0249,Dessert,Gulab Jamun,6,99,10,UPI,Delivery,5
+O00387,2025-11-10,C0088,Biryani,Chicken Biryani,3,299,15,Credit Card,Dine-In,3
+O00388,2025-06-20,C0317,Pasta,Alfredo Pasta,6,279,0,Debit Card,Delivery,3
+O00389,2025-04-30,C0022,Burger,Veg Burger,3,169,0,Debit Card,Delivery,4
+O00390,2025-02-05,C0341,Pasta,Arrabbiata Pasta,4,249,5,UPI,Takeaway,3
+O00391,2025-01-26,C0208,Biryani,Paneer Biryani,5,269,0,Debit Card,Delivery,4
+O00392,2025-10-30,C0243,Pasta,Alfredo Pasta,6,269,5,Debit Card,Delivery,5
+O00393,2025-04-26,C0375,Dessert,Chocolate Brownie,8,159,0,UPI,Dine-In,5
+O00394,2025-08-14,C0229,Pizza,Farmhouse Pizza,7,389,5,UPI,Takeaway,5
+O00395,2025-10-12,C0101,Dessert,Chocolate Brownie,4,159,10,Cash,Takeaway,4
+O00396,2025-11-22,C0309,Dessert,Ice Cream Sundae,7,169,0,Credit Card,Delivery,3
+O00397,2026-01-17,C0007,Biryani,Veg Biryani,7,249,0,UPI,Takeaway,4
+O00398,2026-03-31,C0380,Beverage,Mango Shake,4,139,10,Debit Card,Delivery,3
+O00399,2025-03-30,C0074,Burger,Cheese Burger,7,179,0,UPI,Takeaway,5
+O00400,2026-02-24,C0328,Pasta,Alfredo Pasta,7,289,0,Debit Card,Takeaway,5
+O00401,2026-01-26,C0149,Biryani,Paneer Biryani,3,279,0,UPI,Dine-In,3
+O00402,2026-04-20,C0115,Beverage,Mango Shake,8,149,5,Cash,Dine-In,3
+O00403,2025-10-22,C0214,Pasta,Pesto Pasta,8,319,0,UPI,Delivery,2
+O00404,2025-03-10,C0307,Pizza,Margherita Pizza,8,299,20,Credit Card,Delivery,5
+O00405,2025-05-03,C0192,Biryani,Chicken Biryani,8,319,20,UPI,Delivery,3
+O00406,2025-05-19,C0183,Burger,Cheese Burger,3,169,0,UPI,Dine-In,4
+O00407,2025-03-20,C0264,Dessert,Gulab Jamun,5,89,0,UPI,Delivery,1
+O00408,2025-11-05,C0139,Chinese,Veg Fried Rice,6,209,15,Credit Card,Delivery,1
+O00409,2026-06-15,C0145,Chinese,Chilli Paneer,3,279,0,UPI,Takeaway,3
+O00410,2025-07-12,C0408,Burger,Veg Burger,3,149,5,Debit Card,Delivery,5
+O00411,2025-03-20,C0060,Beverage,Mango Shake,2,169,5,Credit Card,Delivery,4
+O00412,2026-03-29,C0456,Pasta,Arrabbiata Pasta,6,269,0,Debit Card,Takeaway,3
+O00413,2025-05-02,C0114,Burger,Cheese Burger,1,179,10,Cash,Delivery,2
+O00414,2026-03-12,C0354,Pasta,Alfredo Pasta,3,279,20,Credit Card,Dine-In,1
+O00415,2025-02-03,C0407,Beverage,Fresh Lime Soda,1,89,0,Credit Card,Delivery,4
+O00416,2025-01-11,C0387,Pizza,Farmhouse Pizza,2,389,0,Cash,Dine-In,5
+O00417,2025-01-30,C0047,Burger,Cheese Burger,3,179,10,Cash,Delivery,3
+O00418,2025-09-05,C0259,Chinese,Chicken Noodles,3,249,15,UPI,Dine-In,5
+O00419,2025-10-16,C0088,Beverage,Cold Coffee,4,139,10,Debit Card,Takeaway,1
+O00420,2025-07-09,C0226,Burger,Cheese Burger,8,199,0,Credit Card,Dine-In,3
+O00421,2025-11-18,C0064,Biryani,Chicken Biryani,4,299,5,UPI,Takeaway,4
+O00422,2025-02-11,C0043,Beverage,Fresh Lime Soda,5,109,5,UPI,Dine-In,3
+O00423,2026-03-31,C0116,Biryani,Paneer Biryani,5,289,10,UPI,Dine-In,4
+O00424,2026-05-19,C0345,Burger,Veg Burger,6,149,0,Cash,Takeaway,1
+O00425,2025-04-15,C0380,Pizza,Margherita Pizza,7,299,10,Debit Card,Delivery,1
+O00426,2026-02-18,C0063,Pasta,Alfredo Pasta,4,279,5,UPI,Takeaway,4
+O00427,2026-02-14,C0183,Pasta,Pesto Pasta,5,309,10,UPI,Delivery,4
+O00428,2025-04-21,C0063,Biryani,Paneer Biryani,3,269,10,UPI,Takeaway,2
+O00429,2026-05-26,C0348,Pizza,Margherita Pizza,1,319,10,Cash,Dine-In,5
+O00430,2025-04-09,C0390,Dessert,Gulab Jamun,5,99,5,Cash,Delivery,4
+O00431,2026-05-18,C0259,Beverage,Fresh Lime Soda,5,89,10,UPI,Takeaway,5
+O00432,2025-05-02,C0197,Chinese,Veg Fried Rice,7,189,15,UPI,Delivery,4
+O00433,2025-11-07,C0453,Biryani,Veg Biryani,3,219,5,Credit Card,Takeaway,2
+O00434,2026-08-06,C0346,Pasta,Pesto Pasta,8,299,10,UPI,Delivery,5
+O00435,2026-02-05,C0135,Chinese,Chicken Noodles,3,249,5,UPI,Delivery,5
+O00436,2025-02-16,C0066,Dessert,Gulab Jamun,6,99,0,Credit Card,Takeaway,5
+O00437,2025-12-20,C0183,Pizza,Pepperoni Pizza,7,449,0,UPI,Dine-In,2
+O00438,2025-03-09,C0445,Burger,Veg Burger,5,169,5,UPI,Takeaway,1
+O00439,2026-03-09,C0291,Chinese,Chicken Noodles,8,239,10,UPI,Takeaway,1
+O00440,2026-01-22,C0293,Dessert,Gulab Jamun,1,109,20,UPI,Delivery,4
+O00441,2026-05-30,C0416,Pizza,Pepperoni Pizza,4,469,0,Credit Card,Takeaway,5
+O00442,2025-03-19,C0431,Pasta,Arrabbiata Pasta,4,249,5,Debit Card,Dine-In,3
+O00443,2025-04-05,C0368,Pizza,Farmhouse Pizza,7,409,10,Credit Card,Dine-In,3
+O00444,2025-12-22,C0408,Pasta,Alfredo Pasta,8,289,5,Cash,Delivery,5
+O00445,2026-02-16,C0129,Beverage,Fresh Lime Soda,6,89,0,Credit Card,Takeaway,5
+O00446,2025-08-07,C0339,Burger,Veg Burger,3,169,5,Debit Card,Delivery,4
+O00447,2025-03-03,C0268,Pasta,Pesto Pasta,7,309,15,UPI,Takeaway,2
+O00448,2026-02-25,C0164,Burger,Cheese Burger,5,199,10,Debit Card,Delivery,2
+O00449,2025-09-20,C0352,Beverage,Fresh Lime Soda,5,89,5,Credit Card,Takeaway,1
+O00450,2025-11-14,C0238,Burger,Veg Burger,4,139,10,UPI,Delivery,4
+O00451,2025-01-30,C0133,Dessert,Chocolate Brownie,3,149,0,Credit Card,Dine-In,5
+O00452,2025-02-26,C0441,Burger,Cheese Burger,8,169,10,Debit Card,Takeaway,3
+O00453,2025-04-03,C0204,Beverage,Cold Coffee,6,129,10,Debit Card,Delivery,2
+O00454,2026-08-18,C0487,Burger,Veg Burger,2,159,5,Credit Card,Takeaway,4
+O00455,2025-11-17,C0169,Pizza,Margherita Pizza,2,309,10,Credit Card,Delivery,2
+O00456,2025-10-09,C0226,Biryani,Veg Biryani,2,229,0,UPI,Delivery,1
+O00457,2026-03-10,C0244,Biryani,Paneer Biryani,2,269,0,Credit Card,Delivery,2
+O00458,2025-01-22,C0331,Pasta,Arrabbiata Pasta,6,269,10,Debit Card,Delivery,1
+O00459,2025-11-13,C0328,Dessert,Ice Cream Sundae,5,179,5,Debit Card,Takeaway,1
+O00460,2026-02-07,C0475,Chinese,Veg Fried Rice,7,199,0,Debit Card,Dine-In,1
+O00461,2025-06-14,C0469,Beverage,Cold Coffee,4,129,15,UPI,Takeaway,4
+O00462,2026-05-19,C0242,Beverage,Cold Coffee,2,129,10,Credit Card,Delivery,3
+O00463,2026-06-03,C0034,Dessert,Gulab Jamun,3,89,10,UPI,Delivery,5
+O00464,2025-07-08,C0323,Dessert,Gulab Jamun,1,99,10,UPI,Delivery,1
+O00465,2025-03-26,C0057,Biryani,Veg Biryani,5,249,0,UPI,Takeaway,2
+O00466,2025-11-24,C0232,Beverage,Mango Shake,7,169,10,UPI,Delivery,3
+O00467,2025-07-23,C0044,Burger,Cheese Burger,6,189,10,UPI,Dine-In,4
+O00468,2026-07-26,C0332,Beverage,Mango Shake,1,149,15,Credit Card,Dine-In,1
+O00469,2026-03-16,C0308,Biryani,Veg Biryani,3,229,0,UPI,Dine-In,3
+O00470,2026-03-22,C0396,Burger,Cheese Burger,1,169,10,Debit Card,Takeaway,4
+O00471,2025-09-30,C0148,Pizza,Margherita Pizza,4,319,0,Credit Card,Takeaway,4
+O00472,2025-10-17,C0373,Beverage,Cold Coffee,4,139,20,Credit Card,Takeaway,4
+O00473,2025-08-30,C0317,Beverage,Cold Coffee,5,119,20,UPI,Dine-In,5
+O00474,2025-05-17,C0447,Dessert,Ice Cream Sundae,2,179,0,UPI,Delivery,2
+O00475,2025-09-20,C0038,Dessert,Gulab Jamun,7,119,10,Cash,Dine-In,3
+O00476,2026-06-01,C0318,Burger,Chicken Burger,1,199,0,UPI,Delivery,3
+O00477,2026-05-31,C0253,Burger,Cheese Burger,3,169,0,Debit Card,Delivery,2
+O00478,2025-04-30,C0161,Pizza,Farmhouse Pizza,7,419,0,Cash,Dine-In,3
+O00479,2025-09-27,C0314,Dessert,Gulab Jamun,5,99,15,Credit Card,Delivery,5
+O00480,2026-05-19,C0392,Pasta,Arrabbiata Pasta,6,249,10,Debit Card,Delivery,4
+O00481,2025-02-06,C0241,Pizza,Margherita Pizza,1,299,0,UPI,Delivery,4
+O00482,2026-07-29,C0249,Pizza,Farmhouse Pizza,8,389,0,UPI,Dine-In,2
+O00483,2025-07-04,C0428,Pizza,Farmhouse Pizza,4,389,15,UPI,Takeaway,3
+O00484,2025-01-05,C0270,Chinese,Chilli Paneer,4,289,5,Credit Card,Dine-In,1
+O00485,2025-01-27,C0146,Burger,Chicken Burger,2,219,15,Credit Card,Delivery,4
+O00486,2025-03-25,C0236,Pasta,Pesto Pasta,6,289,0,Credit Card,Delivery,4
+O00487,2025-02-14,C0336,Dessert,Gulab Jamun,1,109,0,Credit Card,Takeaway,5
+O00488,2025-02-26,C0381,Burger,Veg Burger,5,139,0,Cash,Delivery,4
+O00489,2026-02-13,C0046,Pizza,Farmhouse Pizza,3,399,0,Cash,Dine-In,4
+O00490,2026-05-18,C0411,Beverage,Fresh Lime Soda,3,89,0,UPI,Delivery,3
+O00491,2026-01-12,C0263,Dessert,Ice Cream Sundae,6,179,10,UPI,Takeaway,4
+O00492,2026-03-09,C0416,Biryani,Chicken Biryani,7,309,0,UPI,Dine-In,4
+O00493,2025-08-18,C0332,Pizza,Margherita Pizza,6,309,20,Credit Card,Dine-In,4
+O00494,2026-03-24,C0041,Chinese,Chilli Paneer,2,299,0,Debit Card,Takeaway,2
+O00495,2025-10-30,C0292,Burger,Cheese Burger,4,179,5,Cash,Dine-In,1
+O00496,2026-04-21,C0339,Chinese,Veg Fried Rice,7,209,5,Credit Card,Delivery,3
+O00497,2026-04-19,C0092,Pasta,Pesto Pasta,1,289,0,Credit Card,Delivery,1
+O00498,2026-04-11,C0388,Pizza,Farmhouse Pizza,5,419,0,Credit Card,Delivery,3
+O00499,2025-09-23,C0447,Pasta,Alfredo Pasta,3,279,0,Credit Card,Takeaway,1
+O00500,2026-05-04,C0236,Pizza,Farmhouse Pizza,1,389,0,Credit Card,Delivery,5
